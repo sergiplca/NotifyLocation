@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">NotifyLocation</string>
+    <string name="title_activity_location">Map</string>
+    <string name="title_activity_history">Place History</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="add_friends">Add friends</string>
+    <string name="settings">Settings</string>
+    <string name="friends">Friends</string>
+    <string name="logoff">Log off</string>
+    <string name="history">Place history</string>
+    <string name="exit">Exit</string>
+
+    <string name="search_friends">Search friends</string>
+    <string name="enter_name">Enter a name</string>
+
+
+    <!-- PreferenceActivity strings -->
+    <string name="user_settings">User Settings</string>
+    <string name="username">User name</string>
+    <string name="username_summary">Enter your user name</string>
+
+    <string name="notification_settings">Notification Settings</string>
+    <string name="places_of_interest">Places of interest</string>
+    <string name="locations_informed">Places you want to be informed about</string>
+
+    <string name="radius">Radius</string>
+    <string name="radius_informed">Radius</string>
+
+    <!--LoginActivity strings -->
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered now!</string>
+    <string name="btn_link_to_login">Already registered? Go to the login page</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+</resources>

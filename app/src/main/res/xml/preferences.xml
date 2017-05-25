@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/user_settings">
+
+        <EditTextPreference
+            android:key="name"
+            android:title="@string/username"
+            android:summary="@string/username_summary" />
+
+        <EditTextPreference
+            android:key="radius"
+            android:title="@string/radius"
+            android:summary="@string/radius_informed"
+            android:inputType="number" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/notification_settings">
+
+        <MultiSelectListPreference
+            android:key="locations_available"
+            android:title="@string/places_of_interest"
+            android:summary="@string/locations_informed"
+            android:entries="@array/locations"
+            android:entryValues="@array/locations_values" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

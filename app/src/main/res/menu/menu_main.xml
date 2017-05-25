@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/add_friends"
+        android:orderInCategory="1"
+        android:title="@string/add_friends"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/addusermenu" />
+    <item
+        android:id="@+id/settings"
+        android:orderInCategory="2"
+        android:title="@string/settings"
+        android:icon="@drawable/settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/friends"
+        android:orderInCategory="3"
+        android:title="@string/friends"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/history"
+        android:orderInCategory="4"
+        android:title="@string/history"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/logoff"
+        android:orderInCategory="5"
+        android:title="@string/logoff"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/exit"
+        android:orderInCategory="6"
+        android:title="@string/exit"
+        app:showAsAction="never" />
+</menu>

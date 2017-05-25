@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "637442915389",
+    "firebase_url": "https://notifylocation-b2482.firebaseio.com",
+    "project_id": "notifylocation-b2482",
+    "storage_bucket": "notifylocation-b2482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637442915389:android:623adf919d6140de",
+        "android_client_info": {
+          "package_name": "com.sergi.notifylocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637442915389-ngim4k2vaemb95acnkk9ropi40pflnhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE4OQcJD_100YgEEp2aJQJQMgqv_OpSK4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
